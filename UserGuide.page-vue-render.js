@@ -182,6 +182,6 @@ with(this){return _c('h2',{attrs:{"id":"acknowledgements"}},[_v("Acknowledgement
 with(this){return _c('p',[_v("BandBook is based on the AddressBook-Level3 project created by the "),_c('a',{attrs:{"href":"https://se-education.org"}},[_v("SE-EDU initiative")]),_v(".\nIt is a project under the CS2103T module, School of Computing, National University of Singapore.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Thu, 4 Apr 2024, 16:54:46 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Thu, 4 Apr 2024, 18:19:18 GMT+8]")])])])}
 }];
   

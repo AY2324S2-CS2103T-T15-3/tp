@@ -59,6 +59,8 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "finding-a-person": "Finding a person",
+        "assigning-an-instrument-to-person-s": "Assigning an instrument to person(s)",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
