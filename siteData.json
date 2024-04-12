@@ -114,6 +114,9 @@
       "title": "User Guide",
       "headings": {
         "bandbook-user-guide": "BandBook User Guide",
+        "introduction-and-amp-product-information": "Introduction &amp; Product Information",
+        "purpose-of-this-user-guide-and-how-you-should-use-it": "Purpose of this user guide and how you should use it",
+        "target-user": "Target User",
         "quick-start": "Quick start",
         "features": "Features",
         "parameter-constraints": "Parameter Constraints",
