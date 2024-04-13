@@ -165,6 +165,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/triciiaaa.md",
+      "title": "Tricia Ang's Project Portfolio Page",
+      "headings": {
+        "project-bandbook": "Project: BandBook"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "tutorials/AddRemark.md",
       "title": "Tutorial: Adding a command",
       "headings": {

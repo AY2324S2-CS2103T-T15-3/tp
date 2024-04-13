@@ -38,7 +38,7 @@ with(this){return _c('ul',[_c('li',[_v("Role: Developer")]),_v(" "),_c('li',[_v(
 with(this){return _c('h3',{attrs:{"id":"tricia-ang"}},[_v("Tricia Ang"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#tricia-ang","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("["),_c('a',{attrs:{"href":"http://github.com/triciiaaa"}},[_v("github")]),_v("]")])}
+with(this){return _c('p',[_v("["),_c('a',{attrs:{"href":"http://github.com/triciiaaa"}},[_v("github")]),_v("]\n["),_c('a',{attrs:{"href":"/tp/team/triciiaaa.html"}},[_v("portfolio")]),_v("]")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Role: Developer")]),_v(" "),_c('li',[_v("Responsibilities:\n"),_c('ul',[_c('li',[_v("User Interface Design (Mockup and Development)")]),_v(" "),_c('li',[_v("Backend for Instrument information")]),_v(" "),_c('li',[_v("Backend for Assign Instrument feature")]),_v(" "),_c('li',[_v("Backend for Find (by name and/or instrument) feature")])])])])}
@@ -47,6 +47,6 @@ with(this){return _c('ul',[_c('li',[_v("Role: Developer")]),_v(" "),_c('li',[_v(
 with(this){return _c('pre',[_c('code',{pre:true,attrs:{"class":"hljs"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sun, 14 Apr 2024, 1:31:11 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sun, 14 Apr 2024, 1:33:40 GMT+8]")])])])}
 }];
   
