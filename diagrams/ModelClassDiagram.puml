@@ -22,6 +22,7 @@ Class Birthday
 Class MatriculationYear
 Class Instrument
 Class Tag
+Class Attendance
 
 Class I #FFFFFF
 }
@@ -48,6 +49,7 @@ Person *--> Birthday
 Person *--> MatriculationYear
 Person *--> Instrument
 Person *--> "*" Tag
+Person *--> "*" Attendance
 
 Person -[hidden]up--> I
 UniquePersonList -[hidden]right-> I
