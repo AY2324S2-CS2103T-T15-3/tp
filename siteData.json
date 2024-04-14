@@ -67,6 +67,7 @@
         "appendix-c-possible-future-enhancements": "Appendix C: Possible Future Enhancements",
         "display-more-specific-error-messages": "Display more specific error messages",
         "implement-stronger-data-validation-for-respective-fields": "Implement stronger data validation for respective fields",
+        "implement-stronger-check-criterion-for-duplicate-contacts": "Implement stronger check criterion for duplicate contacts",
         "allow-each-person-to-be-assigned-at-least-one-to-possibly-multiple-instruments": "Allow each person to be assigned at least one to possibly multiple instruments",
         "allow-user-to-copy-link-to-user-guide-automatically-upon-entering-help-command": "Allow user to copy link to User Guide automatically upon entering help command",
         "allow-user-to-find-person-s-by-all-other-fields": "Allow user to find person(s) by all other fields"
