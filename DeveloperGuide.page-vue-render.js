@@ -521,6 +521,6 @@ with(this){return _c('h4',{attrs:{"id":"design-consideration-8"}},[_v("Design Co
 with(this){return _c('ul',[_c('li',[_v("Extend the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FindCommand")]),_v(" to allow users to find person(s) by all other fields.\n"),_c('ul',[_c('li',[_c('strong',[_v("Pros")]),_v(": Easy to implement.")]),_v(" "),_c('li',[_c('strong',[_v("Cons")]),_v(": None.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Mon, 15 Apr 2024, 18:57:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Mon, 15 Apr 2024, 19:23:12 GMT+8]")])])])}
 }];
   
