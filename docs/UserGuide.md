@@ -211,6 +211,7 @@ Adds a person to BandBook.
 Format: `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [b/BIRTHDAY] [my/MATRICULATION_YEAR] [i/INSTRUMENT] [t/TAG]…​`
 
 <box type="tip" seamless>
+
 **Tip:**<br>
 All parameter constraints listed above apply. Click [here](#parameter-constraints) for the list of parameter constraints.
 </box>
