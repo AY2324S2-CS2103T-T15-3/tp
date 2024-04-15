@@ -672,8 +672,6 @@ Action     | Format, Examples
 **List**   | `list`
 **Help**   | `help`
 
---------------------------------------------------------------------------------------------------------------------
-
 <div style="page-break-after: always;"></div>
 
 ## Glossary
