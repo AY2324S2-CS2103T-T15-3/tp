@@ -317,8 +317,6 @@ Examples:
     <img src="images/editCommandInput2.png" width="565" height="450" />
   </div>
 
-  <div style="page-break-after: always;"></div>
-
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/editCommandResult2.png" width="565" height="450" />
@@ -560,14 +558,14 @@ Examples:
     <img src="images/assignCommandInput1.png" width="565" height="450" />
   </div>
 
-  <div style="page-break-after: always;"></div>
-
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/assignCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
+
+  <div style="page-break-after: always;"></div>
 
 * `assign 2 3 i/Clarinet` Assigns the 2nd and 3rd person with the Clarinet instrument.
 
@@ -576,14 +574,14 @@ Examples:
     <img src="images/assignCommandInput2.png" width="565" height="450" />
   </div>
 
-    <div style="page-break-after: always;"></div>
-
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/assignCommandResult2.png" width="565" height="450" />
   </div>
 
 <br>
+
+  <div style="page-break-after: always;"></div>
 
 ### Clearing all entries : `clear`
 
@@ -656,8 +654,6 @@ error.
    We are currently working to resolve the above-mentioned issues, and expect to have fixes rolled out in the coming iterations of BandBook. We seek your kind understanding, and thank you for your continued support as we work towards better meeting your band administrator needs!
 
 --------------------------------------------------------------------------------------------------------------------
-
-<div style="page-break-after: always;"></div>
 
 ## Command Summary
 
