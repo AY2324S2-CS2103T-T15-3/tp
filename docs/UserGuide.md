@@ -219,12 +219,12 @@ Examples:
 * `add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01`  
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandInput1.png" width="500"/>
+    <img src="images/addCommandInput1.png" width="565" height="450" />
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandResult1.png" width="650" height="500" />
+    <img src="images/addCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -234,12 +234,12 @@ Examples:
 * `add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Brown Street p/1234567 t/neighbour`
   <br><br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandInput2.png" width="650" height="500" />
+    <img src="images/addCommandInput2.png" width="565" height="450" />
   </div>
   
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandResult2.png" width="650" height="500" />
+    <img src="images/addCommandResult2.png" width="565" height="450" />
   </div>
 
   <br>
@@ -249,12 +249,12 @@ Examples:
 * `add n/Sally Jane p/1234567 e/sallyjane@example.com a/Blk 123 Smith Street b/2001-02-02`
   <br><br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandInput3.png" width="650" height="500" />
+    <img src="images/addCommandInput3.png" width="565" height="450" />
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandResult3.png" width="650" height="500" />
+    <img src="images/addCommandResult3.png" width="565" height="450" />
   </div>
 
 <br>
@@ -269,7 +269,7 @@ Format: `list`
 
 **Expected output**<br>
 <div style="text-align:center;">
-    <img src="images/listCommandResult.png" width="650" height="500" />
+    <img src="images/listCommandResult.png" width="565" height="450" />
 </div>
 
 <br>
@@ -299,12 +299,12 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/editCommandInput1.png" width="650" height="500" />
+    <img src="images/editCommandInput1.png" width="565" height="450" />
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/editCommandResult1.png" width="650" height="500" />
+    <img src="images/editCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -314,14 +314,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/editCommandInput2.png" width="650" height="500" />
+    <img src="images/editCommandInput2.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/editCommandResult2.png" width="650" height="500" />
+    <img src="images/editCommandResult2.png" width="565" height="450" />
   </div>
   
   <div style="page-break-after: always;"></div>
@@ -346,14 +346,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/findCommandInput1.png" width="650" height="500" />
+    <img src="images/findCommandInput1.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/findCommandResult1.png" width="650" height="500" />
+    <img src="images/findCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -386,14 +386,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/deleteCommandInput1.png" width="650" height="500" />
+    <img src="images/deleteCommandInput1.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/deleteCommandResult1.png" width="650" height="500" />
+    <img src="images/deleteCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -402,14 +402,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/deleteCommandInput2.png" width="650" height="500" />
+    <img src="images/deleteCommandInput2.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/deleteCommandResult2.png" width="650" height="500" />
+    <img src="images/deleteCommandResult2.png" width="565" height="450" />
   </div>
 
 <br>
@@ -454,12 +454,12 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/attCommandInput1.png" width="650" height="500" />
+    <img src="images/attCommandInput1.png" width="565" height="450" />
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/attCommandResult1.png" width="650" height="500" />
+    <img src="images/attCommandResult1.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
@@ -468,12 +468,12 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/attCommandInput2.png" width="650" height="500" />
+    <img src="images/attCommandInput2.png" width="565" height="450" />
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/attCommandResult2.png" width="650" height="500" />
+    <img src="images/attCommandResult2.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
@@ -503,14 +503,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/attdCommandInput1.png" width="650" height="500" />
+    <img src="images/attdCommandInput1.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/attdCommandResult1.png" width="650" height="500" />
+    <img src="images/attdCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -519,14 +519,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/attdCommandInput2.png" width="650" height="500" />
+    <img src="images/attdCommandInput2.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/attdCommandResult2.png" width="650" height="500" />
+    <img src="images/attdCommandResult2.png" width="565" height="450" />
   </div>
 
 <br>
@@ -557,14 +557,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/assignCommandInput1.png" width="650" height="500" />
+    <img src="images/assignCommandInput1.png" width="565" height="450" />
   </div>
 
   <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/assignCommandResult1.png" width="650" height="500" />
+    <img src="images/assignCommandResult1.png" width="565" height="450" />
   </div>
 
   <br>
@@ -573,14 +573,14 @@ Examples:
 
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/assignCommandInput2.png" width="650" height="500" />
+    <img src="images/assignCommandInput2.png" width="565" height="450" />
   </div>
 
     <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/assignCommandResult2.png" width="650" height="500" />
+    <img src="images/assignCommandResult2.png" width="565" height="450" />
   </div>
 
 <br>
