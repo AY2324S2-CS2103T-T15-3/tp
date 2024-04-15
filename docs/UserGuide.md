@@ -62,7 +62,6 @@ operations faster than if they were to use a GUI.
 
 <div style="page-break-after: always;"></div>
 
-## Table of Contents
 <!-- * Table of Contents -->
 <page-nav-print />
 
@@ -212,7 +211,6 @@ Adds a person to BandBook.
 Format: `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [b/BIRTHDAY] [my/MATRICULATION_YEAR] [i/INSTRUMENT] [t/TAG]…​`
 
 <box type="tip" seamless>
-
 **Tip:**<br>
 All parameter constraints listed above apply. Click [here](#parameter-constraints) for the list of parameter constraints.
 </box>
@@ -221,12 +219,12 @@ Examples:
 * `add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01`  
   <br>**Command input**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandInput1.png" width="520" height="400" />
+    <img src="images/addCommandInput1.png" width="500"/>
   </div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
-    <img src="images/addCommandResult1.png" width="520" height="400" />
+    <img src="images/addCommandResult1.png" width="650" height="500" />
   </div>
 
   <br>
@@ -246,13 +244,13 @@ Examples:
 
   <br>
 
+  <div style="page-break-after: always;"></div>
+
 * `add n/Sally Jane p/1234567 e/sallyjane@example.com a/Blk 123 Smith Street b/2001-02-02`
   <br><br>**Command input**<br><br>
   <div style="text-align:center;">
     <img src="images/addCommandInput3.png" width="650" height="500" />
   </div>
-
-  <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
@@ -260,6 +258,8 @@ Examples:
   </div>
 
 <br>
+
+<div style="page-break-after: always;"></div>
 
 ### Listing all persons : `list`
 
@@ -292,7 +292,7 @@ Format: `edit INDEX [n/NAME] [p/PHONE_NUMBER] [e/EMAIL] [a/ADDRESS] [b/BIRTHDAY]
 Command is only effective on the currently displayed list. Ensure that the index you have called is relative to the list that is currently displayed.
 </box>
 
-  <div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
 
 Examples:
 * `edit 7 p/91234567 e/johndoe@example.com` Edits the phone number and email address of the 7th person to be `91234567` and `johndoe@example.com` respectively.
@@ -308,6 +308,7 @@ Examples:
   </div>
 
   <br>
+  <div style="page-break-after: always;"></div>
 
 * `edit 8 n/Betsy Crower t/` Edits the name of the 8th person to be `Betsy Crower` and clears all existing tags.
 
@@ -322,8 +323,8 @@ Examples:
   <div style="text-align:center;">
     <img src="images/editCommandResult2.png" width="650" height="500" />
   </div>
-
-<br>
+  
+  <div style="page-break-after: always;"></div>
 
 ### Finding person(s) by name and/or instrument: `find`
 
@@ -348,6 +349,8 @@ Examples:
     <img src="images/findCommandInput1.png" width="650" height="500" />
   </div>
 
+  <div style="page-break-after: always;"></div>
+
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/findCommandResult1.png" width="650" height="500" />
@@ -359,6 +362,8 @@ Examples:
 * `find i/clarinet flute` returns all persons who play the clarinet or flute.
 
 <br>
+
+  <div style="page-break-after: always;"></div>
 
 ### Deleting a person : `delete`
 
@@ -384,6 +389,8 @@ Examples:
     <img src="images/deleteCommandInput1.png" width="650" height="500" />
   </div>
 
+  <div style="page-break-after: always;"></div>
+
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/deleteCommandResult1.png" width="650" height="500" />
@@ -397,6 +404,8 @@ Examples:
   <div style="text-align:center;">
     <img src="images/deleteCommandInput2.png" width="650" height="500" />
   </div>
+
+  <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
@@ -438,6 +447,8 @@ Format: `att INDEX_1 [INDEX_2]... d/DATE`
 Command is only effective on the currently displayed list. Ensure that the index you have called is relative to the list that is currently displayed.
 </box>
 
+<div style="page-break-after: always;"></div>
+
 Examples:
 * Entering `list`, followed by `att 1 2 d/2024-02-02` marks the attendance of the persons at the 1st and 2nd indexes of BandBook, on 2024-02-02.
 
@@ -451,7 +462,7 @@ Examples:
     <img src="images/attCommandResult1.png" width="650" height="500" />
   </div>
 
-  <br>
+  <div style="page-break-after: always;"></div>
 
 * Entering `find n/David`, followed by `att 1 d/2024-02-02` marks the attendance of the person at the 1st index of the results of the `find` command, on 2024-02-02.
 
@@ -465,7 +476,7 @@ Examples:
     <img src="images/attCommandResult2.png" width="650" height="500" />
   </div>
 
-<br>
+  <div style="page-break-after: always;"></div>
 
 ### Unmarking attendance of person(s): `attd`
 
@@ -495,6 +506,8 @@ Examples:
     <img src="images/attdCommandInput1.png" width="650" height="500" />
   </div>
 
+  <div style="page-break-after: always;"></div>
+
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
     <img src="images/attdCommandResult1.png" width="650" height="500" />
@@ -508,6 +521,8 @@ Examples:
   <div style="text-align:center;">
     <img src="images/attdCommandInput2.png" width="650" height="500" />
   </div>
+
+  <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
@@ -535,6 +550,8 @@ Format: `assign INDEX_1 [INDEX_2]... i/INSTRUMENT​`
 Command is only effective on the currently displayed list. Ensure that the index you have called is relative to the list that is currently displayed.
 </box>
 
+  <div style="page-break-after: always;"></div>
+
 Examples:
 * `assign 1 i/Flute` Assigns the 1st person with the Flute instrument.
 
@@ -542,6 +559,8 @@ Examples:
   <div style="text-align:center;">
     <img src="images/assignCommandInput1.png" width="650" height="500" />
   </div>
+
+  <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
@@ -556,6 +575,8 @@ Examples:
   <div style="text-align:center;">
     <img src="images/assignCommandInput2.png" width="650" height="500" />
   </div>
+
+    <div style="page-break-after: always;"></div>
 
   <br>**Expected output**<br><br>
   <div style="text-align:center;">
@@ -606,6 +627,8 @@ _Details coming soon ..._
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## FAQ
 
 **Q**: How do I transfer my data to another Computer?<br>
@@ -634,6 +657,8 @@ error.
 
 --------------------------------------------------------------------------------------------------------------------
 
+<div style="page-break-after: always;"></div>
+
 ## Command Summary
 
 Action     | Format, Examples
@@ -652,6 +677,8 @@ Action     | Format, Examples
 **Help**   | `help`
 
 --------------------------------------------------------------------------------------------------------------------
+
+<div style="page-break-after: always;"></div>
 
 ## Glossary
 
